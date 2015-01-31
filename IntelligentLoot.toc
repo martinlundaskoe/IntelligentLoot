@@ -1,0 +1,11 @@
+﻿## Interface: 50400
+## Title: IntelligentLoot
+## Author: Martin Lund Askøe(Ðoctorion - Aggramar)
+## Version: 1.0.0b
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: IntelligentLootDB
+## Dependencies: Ace3
+Embedded.xml
+Localization.xml
+IntelligentLoot.lua
